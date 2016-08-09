@@ -1,2 +1,5 @@
 # CSS-Notes
-Any one can enhance this...its my Humble effort to make a note of all the intricacies during my process of learning Front End development :) 
+
+This would be notes for my ownself but anyone is welcome to add stuff to it and also suggestions are also most welcome
+
+#focussing-CSS3
